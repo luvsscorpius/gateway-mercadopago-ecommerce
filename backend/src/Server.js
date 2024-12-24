@@ -1,4 +1,4 @@
-// server.js
+// Server.js
 import express from 'express';
 import { Payment, MercadoPagoConfig } from 'mercadopago';
 import cors from 'cors'
